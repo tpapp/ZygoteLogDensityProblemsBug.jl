@@ -1,0 +1,10 @@
+name = "ZygoteLogDensityProblemsBug"
+uuid = "d3246710-039d-11e9-2ef2-e589b43fb11c"
+authors = ["Tamas K. Papp <tkpapp@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+IRTools = "7869d1d1-7146-5819-86e3-90919afe41df"
+LogDensityProblems = "6fdf6af0-433a-55f7-b3ed-c6c6e0b8df7c"
+TransformVariables = "84d833dd-6860-57f9-a1a7-6da5db126cff"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
